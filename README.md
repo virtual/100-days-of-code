@@ -2,7 +2,7 @@
 
 ## Contents
 * [Rules](rules.md)
-* [Log - click here to see my progress](log.md)
+* [External Log - click here to see my progress](https://virtual.github.io/100daysofcode/)
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
 
